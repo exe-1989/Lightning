@@ -211,4 +211,4 @@ Lightning is offered as a complete free version, with all features and updates i
 Enhance your productivity today! Download **Lightning** for free and take full control of your tasks and calendar within Thunderbird.
 
 ---
-**Last updated:** 2026-09-17 13:07:22 UTC
+**Last updated:** 2026-09-17 17:58:46 UTC
